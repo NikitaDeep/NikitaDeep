@@ -1,4 +1,5 @@
-Hello, Welcome to my Github account I am Nikita Deep, bachelor of science graduate in mathematics stream in the year 2023. Holding 1 year of Internship Experience.
+Hello, Welcome to my Github account I am Nikita Deep, bachelor of science graduate in mathematics stream in the year 2023. 
+Holding 1 year of Internship Experience.
 
 As data analyst, always excited to ascertain insights and identify patterns from complex datasets that can have real human impacts. 
 Experienced in creating dashboards, data pipelines that have improved operational efficiency and decision-making processes. 
